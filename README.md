@@ -1,16 +1,8 @@
 # paye_ton_kawa
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La mise à disposition d’une application mobile permettra aux revendeurs de pouvoir présenter facilement les propriétés
+des produits et, via de la réalité augmentée, pouvoir présenter le produit aux futurs clients.
+Cette application pourra devra récupérer les informations des produits depuis les APIs mises à dispositions précédemment.
+Affichage d’une liste de produits et fiches produits affichant les détails des produits.
+La réalité augmentée devra permettre de visualiser un produit (ex : une machine à café) dans son environnement final.
+Cela permettra aux clients du revendeur de se projeter et voir ainsi comment la machine à café se positionnera dans son espace.
